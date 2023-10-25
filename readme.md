@@ -1,13 +1,13 @@
-<h3> Gerador de Piadas Aleatórias <\h3>
+# Random Joke Generator
 
-O Gerador de Piadas Aleatórias é uma aplicação simples que utiliza JavaScript para buscar piadas engraçadas aleatórias de uma API pública de piadas e exibi-las para o usuário.
+Random Joke Generator is a simple application that uses JavaScript to fetch random funny jokes from a public joke API and display them to the user.
 
-Recursos do Projeto:
+Project Resources:
 
-- Botão "Nova Piada": Um botão que o usuário pode clicar para obter uma nova piada aleatória.
-- Exibição da Piada: A piada aleatória é exibida na página, substituindo a piada anterior.
+- "New Joke" Button: A button that the user can click to get a new random joke.
+- Joke Display: The random joke is displayed on the page, replacing the previous joke.
 
-Tecnologias Usadas:
+Technologies Used:
 
-- JavaScript, HTML e CSS
+- JavaScript, HTML and CSS
 - API: https://v2.jokeapi.dev/joke/Any
